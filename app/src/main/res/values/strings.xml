@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">My Idea</string>
+    <string name="increse_score">increase your score</string>
+    <string name="edit_profile_profile">Edit profile</string>
+    <string name="main_toast_need_permission">"You must give permissions to use this app. App is exiting."</string>
+</resources>

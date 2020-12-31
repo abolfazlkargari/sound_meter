@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/item_profile_bn"
+        android:title="profile"
+        android:icon="@drawable/ic_account_box_whit_24dp"/>
+    <item
+        android:id="@+id/item_history_bn"
+        android:title="HISTORY"
+        android:icon="@drawable/ic_history_white_24dp"/>
+    <item
+        android:id="@+id/item_record_bn"
+        android:title="RECORD"
+        android:icon="@drawable/ic_record_voice_over_white_24dp"/>
+
+
+
+</menu>
